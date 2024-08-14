@@ -66,21 +66,21 @@ body{
 /*========== Images row 1 ==========*/
 #img1-1-draggable{
     position: absolute;
-    left: 0;
+    right: 0;
     bottom: 0;
     transform: scale(0.5);
 }
 
 #img1-2-draggable{
     position: absolute;
-    left: 120px;
+    right: 120px;
     bottom: 0;
     transform: scale(0.5);
 }
 
 #img1-3-draggable{
     position: absolute;
-    left: 240px;
+    right: 240px;
     bottom: 0;
     transform: scale(0.5);
 }
@@ -88,21 +88,21 @@ body{
 /*========== Images row 2 ==========*/
 #img2-1-draggable{
     position: absolute;
-    left: 360px;
+    right: 360px;
     bottom: 0;
     transform: scale(0.5);
 }
 
 #img2-2-draggable{
     position: absolute;
-    left: 480px;
+    right: 480px;
     bottom: 0;
     transform: scale(0.5);
 }
 
 #img2-3-draggable{
     position: absolute;
-    left: 0;
+    right: 0;
     bottom: 120px;
     transform: scale(0.5);
 }
@@ -110,21 +110,21 @@ body{
 /*========== Images row 3 ==========*/
 #img3-1-draggable{
     position: absolute;
-    left: 120px;
+    right: 120px;
     bottom: 120px;
     transform: scale(0.5);
 }
 
 #img3-2-draggable{
     position: absolute;
-    left: 240px;
+    right: 240px;
     bottom: 120px;
     transform: scale(0.5);
 }
 
 #img3-3-draggable{
     position: absolute;
-    left: 360px;
+    right: 360px;
     bottom: 120px;
     transform: scale(0.5);
 }
